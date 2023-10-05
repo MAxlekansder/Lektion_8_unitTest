@@ -1,0 +1,10 @@
+JUnit och inheritance
+
+JUnit är ett exempel på ett enhetstest ramverk dår vi kan antingen manuellt
+eller automatiserat testa vår kod
+
+Tillför annotationer
+tillåter dig arbeta snabbare och effektivare
+är väldigt simpelt och enklet att komma igång med
+tillför säkrare kod
+
